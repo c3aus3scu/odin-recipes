@@ -1,0 +1,42 @@
+.logo, nav, .search-bar {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+nav {
+    border: #333;
+    background-color: #CD9641;
+    text-align: center;
+    font-family: Arial;
+    color: black;
+    font-size: 32px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #333;
+    
+}
+
+.search-bar {
+    
+}
+
+.ostyle {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: #CD9641;
+}
